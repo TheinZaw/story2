@@ -1,0 +1,6 @@
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+secrets.txt
+#if prev line has error, no ignore below lines
+folder1/
